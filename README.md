@@ -102,7 +102,6 @@ Layouts adapt using responsive CSS techniques to ensure usability and visual con
 
 **Jennie Jeong**
 📍 Mississauga, ON
-🔗 GitHub: [https://github.com/orbitjeong](https://github.com/orbitjeong)
 
 ---
 
